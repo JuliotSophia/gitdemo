@@ -1,11 +1,19 @@
 public class interchange {
     public static void main (String[] args)
     {
+<<<<<<< HEAD
+        //added 
+        int A=0;
+        int B;
+        int C;
+        
+=======
  
         int A;
         int B;
         int C;
 
+>>>>>>> master
         int a=88;
         int b=67;
 
