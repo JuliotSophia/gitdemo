@@ -1,9 +1,11 @@
 public class interchange {
     public static void main (String[] args)
     {
+ 
         int A;
         int B;
         int C;
+
         int a=88;
         int b=67;
 
