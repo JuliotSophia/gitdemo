@@ -2,7 +2,7 @@ public class primenumber {
   public static void main(String args[]) {
 
 
-      int n =23 ;
+      int n =109 ;
 
       int s;
       int t = 0;
