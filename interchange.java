@@ -2,7 +2,7 @@ public class interchange {
     public static void main (String[] args)
     {
 
-        int a=890;
+        int a=88;
         int b=67;
 
                 a=a+b;
