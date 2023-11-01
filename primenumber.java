@@ -1,7 +1,7 @@
 public class primenumber {
   public static void main(String args[]) {
 
-      int n =900 ;
+      int n =39 ;
 
       int s;
       int t = 0;
