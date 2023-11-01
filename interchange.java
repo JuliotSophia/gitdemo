@@ -2,9 +2,9 @@ public class interchange {
     public static void main (String[] args)
     {
         //added 
-        int x;
-        int y;
-        int z;
+        int A=0;
+        int B;
+        int C;
         
         int a=88;
         int b=67;
