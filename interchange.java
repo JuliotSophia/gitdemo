@@ -1,7 +1,11 @@
 public class interchange {
     public static void main (String[] args)
     {
-
+        //added 
+        int x;
+        int y;
+        int z;
+        
         int a=88;
         int b=67;
 
